@@ -1,6 +1,6 @@
 import Foundation
 import Combine
-import JSONRPC
+import jsonPRC
 import WalletConnectRelay
 import WalletConnectUtils
 import WalletConnectKMS

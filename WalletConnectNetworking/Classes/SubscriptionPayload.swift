@@ -1,5 +1,5 @@
 import Foundation
-import JSONRPC
+import jsonPRC
 
 public protocol SubscriptionPayload {
     var id: RPCID { get }
