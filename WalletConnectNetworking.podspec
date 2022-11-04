@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WalletConnectNetworking'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'WalletConnectNetworking library'
 
 # This description is used to generate tags and improve search results.
@@ -29,6 +29,8 @@ Pod::Spec.new do |s|
   s.source_files = 'WalletConnectNetworking/Classes/**/*'
 
   s.dependency 'WalletConnectRelay', '~> 1.0.2'
+
+  s.swift_version = '5'
   
   # s.resource_bundles = {
   #   'WalletConnectNetworking' => ['WalletConnectNetworking/Assets/*.png']
