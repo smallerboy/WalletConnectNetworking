@@ -17,7 +17,7 @@ WalletConnectNetworking is available through [CocoaPods](https://cocoapods.org).
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'WalletConnectNetworking'
+pod 'WalletConnectNetworking', '~> 1.0.1'
 ```
 
 ## Author
